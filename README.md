@@ -8,3 +8,15 @@
 6. Print!
 
 Please note: The size of the page is DIN A4 and designed for a specific size of etiquette. If it does not correspond to your page size or etiquette size, use InDesign to change the size of the text boxes and/or of the text itself.
+
+Mac
+Application Folder: Hard Drive > Applications > Adobe InDesign [version number] > Scripts
+User Folder: Hard Drive > Users > [username] > Library > Preferences > Adobe InDesign > Version X.X > [en_US or other language] > Scripts
+
+Windows 8, 7, & Vista
+Application Folder: C:Drive > Program Files > Adobe > Adobe InDesign [version number] > Scripts
+User Folder: C:Drive > Users > [username] > AppData > Roaming > Adobe > InDesign > Version X.X > [en_US or other language] > Scripts
+
+Windows XP
+Application Folder: C:Drive > Program Files > Adobe > Adobe InDesign [version number] > Scripts
+User Folder: C:Drive > Documents and Settings > [username] > Application Data > Adobe > InDesign > Version X.X > [en_US or other language] > Scripts
