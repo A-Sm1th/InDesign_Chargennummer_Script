@@ -69,3 +69,4 @@ else{
     alert("Der Prozess wurde gecancelt.")
 }
 myDialog.destroy();
+
